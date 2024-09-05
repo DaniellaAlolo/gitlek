@@ -1,6 +1,4 @@
 # gitlek
-
-<<<<<<< HEAD
 ## Header 2 
 
 
