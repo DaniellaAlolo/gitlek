@@ -1,6 +1,6 @@
 ---
-id: intro # Viktigt att "id" matchar din sidebar eller länk
-title: External Documentation
+id: gitlek-intro # Viktigt att "id" matchar din sidebar eller länk
+title: Gitlek Documentation
 ---
 
 # gitlek
