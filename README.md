@@ -11,14 +11,10 @@ title: External Documentation
 
 ### Header 3
 
-<<<<<<< HEAD
 ##### Hedader 5
 
 # Header 6 med en
 
 ##### Hedader 5
-=======
-# Header 6 med en #
->>>>>>> 3b0a3dedcbe86963ecc27922c0333393ef818fda
 
 # Header 6
