@@ -1,4 +1,10 @@
+---
+id: intro # Viktigt att "id" matchar din sidebar eller länk
+title: External Documentation
+---
+
 # gitlek
+
 ## Header 2
 
 #### Header 4
@@ -7,6 +13,8 @@
 
 ##### Hedader 5
 
-# Header 6 med en #
-##### Hedader 5 
+# Header 6 med en
+
+##### Hedader 5
+
 # Header 6
